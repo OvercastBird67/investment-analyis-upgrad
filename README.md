@@ -27,6 +27,9 @@ The business objectives and goals of data analysis are pretty straightforward.
   
   2. __Goals of data analysis__: The goals are divided into three sub-goals:
     
-    1. __Investment type analysis__: Comparing the typical investment amounts in the venture, seed, angel, private equity, etc. so that Spark Funds can choose the type that is best suited for their stratergy.
+  - __Investment type analysis__: Comparing the typical investment amounts in the venture, seed, angel, private equity, etc. so that Spark Funds can choose the type that is best suited for their stratergy.
     
-    2. __
+  - __Country analysis__: Identifying the countries which have been the most heavily invested in the past. These will be Spark Sunds favourites as well.
+  
+  - __Sector analysis__: Understanding the distribution of investments across the eight main sectors. (Note that we are intrested in the eight 'main sectors' provided in the __mapping file__. The two files -- __companies and rounds2__ -- have numerous sub-sectors names; hence you will need to map each sub-sector to it's main sector.)
+  
